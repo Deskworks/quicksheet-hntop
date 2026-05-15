@@ -4,6 +4,6 @@
   "description": "Top Hacker News stories with scores and comment counts — on your wallpaper",
   "version": "1.0.0",
   "author": "cemheren",
-  "entrypoint": "dotnet run --project .",
+  "entry": "dotnet run --project .",
   "repository": "https://github.com/cemheren/quicksheet-hntop"
 }
