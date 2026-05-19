@@ -11,7 +11,7 @@ Developers check HN multiple times per day. Instead of context-switching to a br
 In any QuickSheet cell, type:
 
 ```
-ext: github:cemheren/quicksheet-hntop
+ext: github:Deskworks/quicksheet-hntop
 ```
 
 QuickSheet clones the repo and starts the extension automatically.
